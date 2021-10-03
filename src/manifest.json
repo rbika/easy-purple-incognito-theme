@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "manifest_version": 2,
   "name": "Easy Purple Incognito Mode",
   "description": "Incognito theme that makes easier to identify if you are navigating in incognito mode or not.",
@@ -15,6 +15,7 @@
       "toolbar_button_icon": [239, 240, 241],
       "omnibox_background": [25, 25, 25],
       "ntp_background": [46, 47, 51],
+      "frame_incognito": [103, 58, 183],
       "frame_incognito_inactive": [123, 108, 156]
     }
   }
