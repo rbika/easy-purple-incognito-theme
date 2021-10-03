@@ -9,12 +9,13 @@
   "theme": {
     "colors": {
       "frame": [25, 25, 25],
+      "frame_inactive": [31, 31, 31],
       "bookmark_text": [232, 234, 237],
       "toolbar": [46, 47, 51],
       "toolbar_button_icon": [239, 240, 241],
       "omnibox_background": [25, 25, 25],
       "ntp_background": [46, 47, 51],
-      "frame_incognito": [103, 58, 183]
+      "frame_incognito_inactive": [123, 108, 156]
     }
   }
 }
